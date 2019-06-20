@@ -1,1 +1,4 @@
 Esta es la version 1 de la prueba de git
+
+esta es la version 2 del archivo.
+
